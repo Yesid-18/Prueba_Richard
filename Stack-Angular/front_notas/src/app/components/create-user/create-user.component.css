@@ -1,0 +1,20 @@
+.title{
+    margin-left: 50px;
+}
+
+.navbar-nav{
+    margin-left: 74%;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.card{
+    margin-top: 60px;
+}
+.table{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 80px;
+    width: 40%;
+}
